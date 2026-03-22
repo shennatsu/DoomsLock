@@ -1,0 +1,10 @@
+DROP TABLE IF EXISTS user_badges;
+DROP TABLE IF EXISTS user_streaks;
+DROP TABLE IF EXISTS usage_logs;
+DROP TABLE IF EXISTS extension_votes;
+DROP TABLE IF EXISTS limit_extensions;
+DROP TABLE IF EXISTS app_limits;
+DROP TABLE IF EXISTS group_invites;
+DROP TABLE IF EXISTS group_members;
+DROP TABLE IF EXISTS groups;
+DROP TABLE IF EXISTS users;
