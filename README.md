@@ -99,7 +99,7 @@ internal/
 migrations/       → SQL migration files
 ```
 
-## Konsep Aplikasi
+## Concept of Application
 
 DoomsLock is a peer-accountability app designed to combat doom scrolling:
 
